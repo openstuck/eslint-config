@@ -1,17 +1,17 @@
 {
-  "name": "@ape.swap/eslint-config-apeswap",
-  "version": "1.0.1",
-  "description": "Eslint config for ApeSwap",
+  "name": "@fullstuck/eslint-config",
+  "version": "0.0.1",
+  "description": "Eslint config for Fullstuck",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:apeswapfinance/eslint-config-apeswap.git",
+  "repository": "git@github.com:openstuck/eslint-config.git",
   "license": "MIT",
   "scripts": {
     "release": "np --branch master patch"
   },
-  "author": "ApeSwapFinance",
+  "author": "Fullstuck",
   "private": false,
   "publishConfig": {
     "access": "public",
