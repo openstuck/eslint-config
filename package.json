@@ -9,7 +9,7 @@
   "repository": "git@github.com:openstuck/eslint-config.git",
   "license": "MIT",
   "scripts": {
-    "release": "np --branch master patch"
+    "release": "np --branch main patch"
   },
   "author": "Fullstuck",
   "private": false,
